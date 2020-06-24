@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2017/02/17" author="e.World Technology Ltd.">
+  <project id="{f2e11bb7-6c58-4902-9e22-305ff94d8ab7}" file="" name="project1" product="PHPReportMaker" version="10.0" datetime="2017/02/17 21:20:30" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="admin_tb" name="admin_tb" caption="admin tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="book_tb" name="book_tb" caption="book tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="costumer_tb" name="costumer_tb" caption="costumer tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="destination_tb" name="destination_tb" caption="destination tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="fly_tb" name="fly_tb" caption="fly tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="line_tb" name="line_tb" caption="line tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="teckit_tb" name="teckit_tb" caption="teckit tb" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="city_report" name="city_report" caption="Report 4" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="book_report" name="book_report" caption="book report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="costumer_report" name="costumer_report" caption="costumer report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="fly_report" name="fly_report" caption="fly report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

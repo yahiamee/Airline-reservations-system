@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:int,name:FLY_NO;datatype:string,name:FROM;datatype:string,name:TO;datatype:string,name:SITE_NO1;datatype:int,name:SITE_NO2;datatype:int,name:SITE_NO3;datatype:int,name:PLANE_TYPE;datatype:string,name:AIRPORT_FROM;datatype:string,name:AIRPORT_TO;datatype:string,name:FLY_DATE;datatype:string,name:LINE;datatype:string" />
+	<infoitem key="UD_des1" value="name:ID;datatype:int,name:Destination_NAME;datatype:string,name:Destination_TYPE;datatype:string,name:DESCRIPTION;datatype:string" />
+	<infoitem key="UD_des2" value="name:ID;datatype:int,name:Destination_NAME;datatype:string,name:Destination_TYPE;datatype:string,name:DESCRIPTION;datatype:string" />
+	<infoitem key="UD_line" value="name:ID;datatype:int,name:LINE;datatype:string,name:FROM;datatype:string,name:TO;datatype:string,name:DESCRIPTION;datatype:string" />
+</info>

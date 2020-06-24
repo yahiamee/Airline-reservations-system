@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:ID;datatype:int,name:COSTUMER_ID;datatype:int,name:COSTUMER_NAME;datatype:string,name:NATIONALITY;datatype:string,name:NAT_TYPE;datatype:string,name:ID_NO;datatype:int,name:ADDRESS;datatype:string,name:PHONE;datatype:int,name:NATIONAL_ID;datatype:string,name:EMAIL;datatype:string,name:JOB;datatype:string,name:USERNAME;datatype:string,name:PASSWORD;datatype:string,name:book_no;datatype:int,name:FLY_NO;datatype:int,name:book_level;datatype:string,name:book_state;datatype:string" />
+</info>
